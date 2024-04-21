@@ -54,7 +54,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 const dataset = {
   "greetings": {
-    "hello":{
     "response": "Hello! I'm here to help you with your mental health. How are you feeling today?"
   },
   "mental health": {
@@ -80,9 +79,7 @@ const dataset = {
     "help": {
       "response": "I'm here to help in any way I can. Can you tell me a bit more about what kind of help you're looking for?",
       "resources": "https://youth.gov/federal-links/mentalhealthgov"
-    }
- 
-},
+    },
   "others": {
     "response": "I'm sorry, I didn't understand. Can you rephrase your question, or would you like me to provide some general mental health resources?"
   }
