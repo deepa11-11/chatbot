@@ -58,6 +58,9 @@ const dataset = {
     "response": "Hello! I'm here to help you with your mental health. How are you feeling today?"
   },
   "mental health": {
+       "response": "I understand feeling down can be tough. Would you like to talk about what's bringing you down, or would you prefer some resources for coping with low mood?",
+      "resources": "https://www.mind.org.uk/"
+  },
     "feeling down": {
       "response": "I understand feeling down can be tough. Would you like to talk about what's bringing you down, or would you prefer some resources for coping with low mood?",
       "resources": "https://www.mind.org.uk/"
@@ -78,7 +81,7 @@ const dataset = {
       "response": "I'm here to help in any way I can. Can you tell me a bit more about what kind of help you're looking for?",
       "resources": "https://youth.gov/federal-links/mentalhealthgov"
     }
-  },
+ 
 },
   "others": {
     "response": "I'm sorry, I didn't understand. Can you rephrase your question, or would you like me to provide some general mental health resources?"
